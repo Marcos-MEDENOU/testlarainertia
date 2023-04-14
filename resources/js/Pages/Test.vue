@@ -27,19 +27,12 @@
 
 
 <script>
-
     import MainLayout from '../Layouts/MainLayout.vue';
-
     export default {
         //layout persistant
         layout:MainLayout
     }
-
 </script>
-
-
-<script setup >
-
-</script>
+<script setup ></script>
 
 
